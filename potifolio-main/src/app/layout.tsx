@@ -7,8 +7,8 @@ import SmoothScroll from "@/components/SmoothScroll";
 import { Toaster } from "sonner";
 
 export const metadata: Metadata = {
-  title: "John Doe | Portfolio",
-  description: "Full Stack Developer & 3D Enthusiast",
+  title: "LAVJEET KUMAR RAI",
+  description: "Full Stack Developer & AI Enthusiast",
 };
 
 export default function RootLayout({
