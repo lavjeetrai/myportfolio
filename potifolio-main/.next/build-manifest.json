@@ -1,0 +1,39 @@
+{
+  "pages": {
+    "/_app": [
+      "static/chunks/[root-of-the-server]__a18dcd9e._.js",
+      "static/chunks/e1201_react-dom_7dca4db0._.js",
+      "static/chunks/e1201_89ab9249._.js",
+      "static/chunks/[root-of-the-server]__99bc4b45._.js",
+      "static/chunks/potifolio-main_potifolio-main_pages__app_5771e187._.js",
+      "static/chunks/potifolio-main_potifolio-main_pages__app_b5909997._.js"
+    ],
+    "/_error": [
+      "static/chunks/[root-of-the-server]__6b4dfdd5._.js",
+      "static/chunks/e1201_react-dom_7dca4db0._.js",
+      "static/chunks/e1201_89ab9249._.js",
+      "static/chunks/[root-of-the-server]__67970610._.js",
+      "static/chunks/potifolio-main_potifolio-main_pages__error_5771e187._.js",
+      "static/chunks/potifolio-main_potifolio-main_pages__error_a7550fdb._.js"
+    ]
+  },
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/e1201_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_ssgManifest.js",
+    "static/development/_buildManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_665cc4d2._.js",
+    "static/chunks/e1201_next_dist_compiled_632e91a2._.js",
+    "static/chunks/e1201_next_dist_client_4762efac._.js",
+    "static/chunks/e1201_next_dist_1314922b._.js",
+    "static/chunks/e1201_@swc_helpers_cjs_f70d080b._.js",
+    "static/chunks/potifolio-main_potifolio-main_e69f0d32._.js",
+    "static/chunks/potifolio-main_potifolio-main_c5fb76c0._.js"
+  ],
+  "ampFirstPages": []
+}

@@ -1,0 +1,16 @@
+{
+  "node": {
+    "404137bb78b9e04fc8f19cb6dde06e79c2de9285bc": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/potifolio-main/potifolio-main/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/potifolio-main/potifolio-main/src/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
