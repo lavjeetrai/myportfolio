@@ -5,7 +5,7 @@ export const resumeData = {
   experience: [
     {
       company: "Microsoft Student Community",
-      role: "Member",
+      role: "Affiliate",
       period: "Present",
       description: "Active member of a Microsoft Student Community powered lab, collaborating on technical projects and community initiatives."
     }
