@@ -38,12 +38,8 @@ export const resumeData = {
       school: "SRM University, AP",
       degree: "B.Tech in Computer Science (AI & ML)",
       period: "2025 - Present"
-    },
-    {
-      school: "St. Francis School, Varanasi",
-      degree: "Class XII (PCM) - 84.27%",
-      period: "2023 - 2024"
     }
+    
   ],
     contact: {
       github: "https://github.com/lavjeetrai",
