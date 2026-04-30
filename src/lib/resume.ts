@@ -1,7 +1,7 @@
 export const resumeData = {
   name: "Lavjeet Kumar Rai",
   role: "Full Stack Developer & AI/ML Enthusiast",
-  about: "I am a Computer Science student specializing in AI & ML, focused on building robust full-stack applications and exploring the intersection of data science and web technology. I have experience in creating financial platforms, healthcare systems, and efficient task management tools.",
+  about: "I am a Computer Science student specializing in AI & ML, focused on building robust full-stack applications and exploring the intersection of data science and web technology.",
   experience: [
     {
       company: "Microsoft Student Community",
